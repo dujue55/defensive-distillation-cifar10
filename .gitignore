@@ -1,0 +1,4 @@
+*.pth
+cifar-10-batches-py/
+*.zip
+.ipynb_checkpoints/
